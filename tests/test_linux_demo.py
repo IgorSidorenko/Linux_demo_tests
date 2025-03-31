@@ -5,9 +5,8 @@ import time
 
 """
 Инструкция по запуску:
-1. Сохраните код в файл test_linux_demo.py
-2. Установите зависимости: pip install pytest
-3. Запустите: pytest -v test_linux_demo.py
+1. Установите зависимости: pip install pytest
+2. Запустите: pytest -v test_linux_demo.py
 """
 
 # Тест 1: Проверка работы с файловой системой
